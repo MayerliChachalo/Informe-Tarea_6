@@ -1,1 +1,53 @@
 # Informe-Tarea_6
+
+Integrantes: Chachalo Mayerli, Mensias Adrian, Robalino Johanna, Vallejo Keily 
+
+## 1. OBJETIVOS 
+
+**Objetivo General**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
