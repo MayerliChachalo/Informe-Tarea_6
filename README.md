@@ -219,9 +219,48 @@ Cuando t = 0.5 s
 
 ![image](https://user-images.githubusercontent.com/75383758/127259385-d047ef29-4b05-4788-8a38-07d79e388af1.png)
 
-Cuando t = 1 
+Cuando t = 1 s
 
 ![image](https://user-images.githubusercontent.com/75383758/127259402-2ebedddd-c40d-4cf2-9bfc-9afb0f4feca1.png)
+
+Cuando t = 1.5 s
+
+![image](https://user-images.githubusercontent.com/75383758/127259673-ca695513-c197-41be-9234-c8fd592f350d.png)
+
+Cuando t = 2 s
+
+![image](https://user-images.githubusercontent.com/75383758/127259694-b8b25ff3-a20b-4619-aeb2-8ed76226c451.png)
+
+Cuando t = 2.5 s
+
+![image](https://user-images.githubusercontent.com/75383758/127259710-255dc72b-e410-463b-865a-a2a128ef3ebb.png)
+
+Cuando decrece 
+
+Graficamos 
+
+![image](https://user-images.githubusercontent.com/75383758/127259725-c1266f32-0bbe-4b65-b8e2-b803c7e23760.png)
+
+Cuando t = 0.5 s
+
+![image](https://user-images.githubusercontent.com/75383758/127259738-2fcbe58a-ba32-483c-840d-21a2203c2acd.png)
+
+Cuando t = 1 s
+
+![image](https://user-images.githubusercontent.com/75383758/127259751-93051df9-3932-4747-8211-509c3e13ca3a.png)
+
+Cuando t = 1.5 s
+
+![image](https://user-images.githubusercontent.com/75383758/127259771-4b353432-bae7-486b-a706-e6feef76fc0c.png)
+
+Cuando t = 160 s
+
+![image](https://user-images.githubusercontent.com/75383758/127259806-cf17f74f-c9bb-4f32-b684-7dc4562a2921.png)
+
+Cuando t = 200 s
+
+![image](https://user-images.githubusercontent.com/75383758/127259811-aadcfa72-c3a6-498c-96a2-680adf7250d5.png)
+
 
 
 ### CAPITULO 12
