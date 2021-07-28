@@ -907,40 +907,4 @@ de atraccion en el embolo en newtons y en libras.
 
 Robbins, A., & Miller, W. (2010). Análisis de circuitos eléctricos. Teoría y práctica [recurso electrónico]. Cengage Learning Editores, S.A. de C.V.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Sc.ehu.es. 2021. Carga y descarga de un condensador. [online] Available at: <http://www.sc.ehu.es/sbweb/fisica/elecmagnet/campo_electrico/rc/rc.htm> [Accessed 28 July 2021].
