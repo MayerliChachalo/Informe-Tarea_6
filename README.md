@@ -16,6 +16,8 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 ## 2. MARCO TEÓRICO 
 
+![Diagrama en blanco](https://user-images.githubusercontent.com/85126275/127269039-a0e02e3c-9d7f-4410-bfd4-1305017395a0.png)
+
 
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
