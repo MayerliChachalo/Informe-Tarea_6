@@ -6,7 +6,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 **Objetivo General**
 
-
+Analizar el funcionamiento de un circuito capacitivo RC cuando el capacitor que está ente en el mismo se carga y se descarga,además de calcular el tiempo en el que se demora en descargarse usando formulas ya establecidas que nos permiten realizar dichos cálculos, también visualizar las ondas que se forman en estos circuitos y comparar con valores calculados.
 
 **Objetivos específicos**
 
