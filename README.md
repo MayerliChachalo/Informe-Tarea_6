@@ -196,7 +196,34 @@ interruptor?
 ![image](https://user-images.githubusercontent.com/75383758/127255367-24515811-d22d-461f-a677-027b57fffbcd.png)
 
 ![image](https://user-images.githubusercontent.com/75383758/127255381-ccc938d8-e7af-4e31-9447-902ebba10e45.png)
-        
+
+24. El voltaje inicial en el capacitor de la figura 11-53 es de 55 V. El interruptor se cierra en t = 0. Determine el voltaje y la corriente del capacitor en t = 0^+, 0.5, 1, 1.5, 2 y 2.5 s, use las curvas de constante de tiempo universal.
+
+![image](https://user-images.githubusercontent.com/75383758/127259300-460f6a80-0491-4f55-a214-b34cd6fe4f2e.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127259311-72a236ca-6565-4ce7-aa38-21422c06bf18.png)
+
+El tiempo constante del circuito 
+
+![image](https://user-images.githubusercontent.com/75383758/127259337-84b270e6-533e-4646-970b-0519cf5cacb3.png)
+
+Graficamos 
+
+![image](https://user-images.githubusercontent.com/75383758/127259356-fe92bf3e-8bb8-45f6-9951-4422738c4004.png)
+
+Cuando 
+
+![image](https://user-images.githubusercontent.com/75383758/127259365-dab9c9fd-1920-4388-a54f-e870501b2cbd.png)
+
+Cuando t = 0.5 s
+
+![image](https://user-images.githubusercontent.com/75383758/127259385-d047ef29-4b05-4788-8a38-07d79e388af1.png)
+
+Cuando t = 1 
+
+![image](https://user-images.githubusercontent.com/75383758/127259402-2ebedddd-c40d-4cf2-9bfc-9afb0f4feca1.png)
+
+
 ### CAPITULO 12
 
 
