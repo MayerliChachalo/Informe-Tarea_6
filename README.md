@@ -905,7 +905,7 @@ de atraccion en el embolo en newtons y en libras.
 
 ## 6. BIBLIOGRAFÍA
 
-
+Robbins, A., & Miller, W. (2010). Análisis de circuitos eléctricos. Teoría y práctica [recurso electrónico]. Cengage Learning Editores, S.A. de C.V.
 
 
 
