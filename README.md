@@ -465,6 +465,222 @@ Reducimos el circuito
 
 31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.
 
+![image](https://user-images.githubusercontent.com/75383758/127261141-afee1908-8766-4f8a-82f4-f547a4a7e31a.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261148-f84b27ae-411e-4f19-94fd-f960ac842ddd.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261153-5be3fa11-89ad-482c-aecc-154796a78694.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261160-99e60d70-c73b-4b4f-8942-e221a95dfa02.png)
+
+b) Cuando t = 0
+
+![image](https://user-images.githubusercontent.com/75383758/127261176-f628e46c-63ce-477c-9710-213dbc6d3adc.png)
+
+Cuando t = 2
+
+![image](https://user-images.githubusercontent.com/75383758/127261192-b8d5eaf9-e108-4923-ba3d-12b706fce7a9.png)
+
+Cuando t = 4
+
+![image](https://user-images.githubusercontent.com/75383758/127261200-a5893786-34f0-4f25-afff-7718aae326a4.png)
+
+Cuando t = 6
+
+![image](https://user-images.githubusercontent.com/75383758/127261210-7f73fcfe-dbd3-47c9-ade7-ac0ddddb6b4b.png)
+
+Cuando t = 8
+
+![image](https://user-images.githubusercontent.com/75383758/127261221-ac59d135-7853-4ae5-9639-9de4c5031466.png)
+
+Cuando t = 10
+
+![image](https://user-images.githubusercontent.com/75383758/127261235-2e72deb3-334e-4aa7-b5f1-39fa56d5bda2.png)
+
+Cuando t = 12
+
+![image](https://user-images.githubusercontent.com/75383758/127261244-daa4de91-1e52-4a95-85bf-28715ead15ae.png)
+
+c) Cuando t = 0
+
+![image](https://user-images.githubusercontent.com/75383758/127261262-f35efb23-0325-470f-925f-f1e9a901ed46.png)
+
+Cuando t = 2
+
+![image](https://user-images.githubusercontent.com/75383758/127261276-26ec694c-227c-491d-9b02-55cce311804a.png)
+
+Cuando t = 4
+
+![image](https://user-images.githubusercontent.com/75383758/127261287-0a62e950-de48-44d9-b111-f82c8d2d4cf3.png)
+
+Cuando t = 6
+
+![image](https://user-images.githubusercontent.com/75383758/127261336-55ccf1df-85ad-4455-8b8f-47ae72efb529.png)
+
+Cuando t = 8
+
+![image](https://user-images.githubusercontent.com/75383758/127261347-3db9ef65-67bd-4ee8-9f03-ce021c8ee2f9.png)
+
+Cuando t = 10
+
+![image](https://user-images.githubusercontent.com/75383758/127261354-8f296034-d0ed-4606-9aaf-3f274e711570.png)
+
+Cuando t = 12
+
+![image](https://user-images.githubusercontent.com/75383758/127261369-fdd5321c-315d-4b7c-8a9a-45a124bf679b.png)
+
+32. Considere otra vez la figura 11-54. Suponga que E = 80 V, R2 = 25 kΩ y C = 0.5 μF:
+
+![image](https://user-images.githubusercontent.com/75383758/127261451-bc3f3285-8ca1-4cde-9ac0-c398db86d7f4.png)
+
+a.	¿Cual es la constante de tiempo de carga?
+
+![image](https://user-images.githubusercontent.com/75383758/127261528-381d737a-3950-4455-80a2-3fd4ae600a59.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261533-3da27c93-fd8f-4049-bc0d-9dcbe83d9d17.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261537-26934ba1-ac49-41ac-9929-8f6186bf635b.png)
+
+b.	¿Cual es la constante de tiempo de descarga?
+
+![image](https://user-images.githubusercontent.com/75383758/127261545-eb36f05a-d6b3-4b99-8369-fc28ed5a0d49.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261555-97de752a-62c4-4b64-9029-f0d83353dc17.png)
+
+c.	Con el capacitor inicialmente descargado, mueva el interruptor a la posición 1 y determine las ecuaciones para vC e iC durante la carga.
+
+![image](https://user-images.githubusercontent.com/75383758/127261567-62d274b7-d8d6-43c5-9690-24bbceb8783e.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261573-832ed0c0-88b0-4f07-84b8-c6a07408d4cb.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261581-06d90d2e-d6b0-414e-b8dc-80f0e95b0224.png)
+
+d.	Mueva el interruptor a la posicion de descarga. ¿Cuanto tiempo tarda el capacitor en descargarse?
+
+![image](https://user-images.githubusercontent.com/75383758/127261595-b1e056fc-1938-4341-99f4-7ce5108df07b.png)
+
+e. Grafique vC e iC desde el momento en que el interruptor se coloca en la posición de carga hasta que el capacitor esta totalmente cargado. Suponga que el interruptor esta en la posicion de carga durante 80 ms.
+
+![image](https://user-images.githubusercontent.com/75383758/127261616-ce96b715-4942-4268-8d69-19a18585f684.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261624-1d4b3234-768c-46ed-8c38-6d4520ca35b3.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261629-181b3e2d-981f-4c6a-80b2-0d135d2e4773.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261633-e48f0b7a-3843-4d86-acd7-0a3a7217510c.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261637-495165bb-09e9-4c25-a05a-f6c7216413e0.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261644-68345a11-5926-4cec-b217-b5b95c29d53b.png)
+
+35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 despues de que se alcanzo el estado estable.
+
+![image](https://user-images.githubusercontent.com/75383758/127261709-b0b78e8a-e456-48b9-ac2c-51820fab28c4.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261712-5c8bee1d-5a07-4ba0-8ed9-c3290afa4192.png)
+
+Usamos la ley de ohm 
+
+![image](https://user-images.githubusercontent.com/75383758/127261733-8300e3ec-77a8-41a1-8807-88c61e06940f.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261736-2b3a04fc-d0f7-4ec6-aa9c-bc374b260d24.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261738-fb432123-d2f2-4744-861f-314aa60e9bd5.png)
+
+37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V, R = 750 kΩ y la alarma es activada en 15 s cuando vC = 3.8 V, ¿Qué valor tiene C?
+
+![image](https://user-images.githubusercontent.com/75383758/127261795-9f927a2b-ec55-4a82-b29c-06dbdf3560cf.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261804-755155f4-de67-4c6f-bc4d-7444df5a763f.png)
+
+38. Para el circuito de alarma de la figura 11-32, la entrada desde el sensor es de 5 V, C = 47 μF, y la alarma es activada cuando vC = 4.2 V. Seleccione el valor del resistor estandar mas cercano para lograr un retraso de 37 s.
+
+![image](https://user-images.githubusercontent.com/75383758/127261841-666a82a8-5d42-4139-b705-f0582dc60cb4.png)
+
+39. Considere la forma de onda de la figura 11-62.
+
+![image](https://user-images.githubusercontent.com/75383758/127261863-b761c07a-7a13-4cdc-82a2-c331f2d0806d.png)
+
+a. ¿Cual es el periodo?
+
+b. ¿Cual es el ciclo de trabajo?
+
+![image](https://user-images.githubusercontent.com/75383758/127261874-5fc531c0-b952-403b-befc-6c9086726f03.png)
+
+c. ¿Cual es el PPR?
+
+![image](https://user-images.githubusercontent.com/75383758/127261884-04fb0e32-90c7-4364-85fc-f421ff4e30f2.png)
+
+40. Repita el problema 39 para la forma de onda de la figura 11-63.
+
+![image](https://user-images.githubusercontent.com/75383758/127261898-d1525d88-c242-4414-a633-ce75b80a697f.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261908-8b94b759-a15b-4940-aec2-5cf03964983c.png)
+
+c) ![image](https://user-images.githubusercontent.com/75383758/127261917-e38acfca-d939-4d3e-9600-1875b0701d81.png)
+
+41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64.
+
+![image](https://user-images.githubusercontent.com/75383758/127261928-06d0d21b-ee93-45e6-978f-235c67617c49.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261932-d45b22c0-d5fc-44c9-99fc-6a1bdef9db59.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261942-a6bac0a4-0b62-4a07-9fcc-b3fe88e30727.png)
+
+42. Un solo pulso es la entrada al circuito de la figura 11-65. Si se supone que el capacitor esta inicialmente descargado, grafique la salida para cada uno de los conjuntos de valores siguientes:
+
+![image](https://user-images.githubusercontent.com/75383758/127261966-42592c66-8c77-4b41-8768-9f89c643fb73.png)
+
+a.	R = 2 kΩ, C = 1 μF.
+
+La constante 
+
+![image](https://user-images.githubusercontent.com/75383758/127262067-e6773d62-f5d9-40e5-8b3b-a4930df61a07.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262078-93a9a65c-29ff-44ee-97be-7758d216f7fe.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262082-4714d007-0dbf-4774-b07f-fa532b1aa2b4.png)
+
+b.	R 2 k, C 0.1 F.
+
+![image](https://user-images.githubusercontent.com/75383758/127262094-53801952-d3cc-47f3-bd9c-745056d34d09.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262103-fdbbf96c-9c97-4e64-b9e1-9faefca97ab8.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262107-2247d6e6-15b7-466e-aee1-3df5894f51a1.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262114-3d814211-e26f-404f-83ca-41f82d1c194f.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262121-4d6f70cb-802b-4ec8-9bea-c62b44e19d2a.png)
+
+43. Se aplica un escalon al circuito de la figura 11-66. Si R _ 150_ y C _ 20 pF, estime el tiempo que tarda en subir el voltaje de salida.
+
+![image](https://user-images.githubusercontent.com/75383758/127262126-34d1d49a-efb4-4410-b11f-102f69c8ee47.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262182-5741192c-09c2-47d7-821d-b327578264d8.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262187-be506249-ae4b-47bc-bfd1-e198104329ce.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262196-5750de9d-a696-4c94-83e9-5b198f029453.png)
+
+44. Un tren de pulsos es la entrada del circuito de la figura 11-66. Si se supone que el capacitor esta inicialmente descargado, grafique la salida para cada uno de los conjuntos de valores siguientes, despues de que el circuito alcanzo un estado estable:
+
+a. R ?= 2 kΩ, C = 0.1 μF.
+
+![image](https://user-images.githubusercontent.com/75383758/127262235-e3e3d9ea-affd-4033-9413-6927a7999b2f.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262253-55bb80ee-62ec-4f8a-b55b-6d7f343d3e8e.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262286-0bd975ce-d8c1-44fa-af46-b04141a2742f.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262318-a4f70783-e2a5-4511-846f-6cf6dea5c2af.png)
+
+c.	R = 20 kΩ, C = 1.0 μF.
+
+![image](https://user-images.githubusercontent.com/75383758/127262383-27237c7a-c9c6-434e-ba06-41a51c12dac1.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127262392-cf336205-bfda-412e-88e9-8dacaca10a3c.png)
+
 ### CAPITULO 12
 
 1.	Vea la figura 12-41:
