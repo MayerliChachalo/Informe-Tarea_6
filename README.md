@@ -18,6 +18,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 ![Diagrama en blanco](https://user-images.githubusercontent.com/85126275/127269039-a0e02e3c-9d7f-4410-bfd4-1305017395a0.png)
 
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/85126275/127320710-8ee0bf3d-f149-4347-bc69-e02724d2cb34.png)
 
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
