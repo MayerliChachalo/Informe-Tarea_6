@@ -261,7 +261,207 @@ Cuando t = 200 s
 
 ![image](https://user-images.githubusercontent.com/75383758/127259811-aadcfa72-c3a6-498c-96a2-680adf7250d5.png)
 
+25. Un capacitor de 4.7 _F se carga a 43 volts. Si un resistor de 39 k_ se conecta al capacitor, ¿cual es el voltaje, 200 ms despues de que se conecta el resistor?
 
+![image](https://user-images.githubusercontent.com/75383758/127260086-09a424a6-844e-46b2-9e9d-45af742e2baf.png)
+
+el voltaje que pasa por el capacitor después de 200 ms 
+
+![image](https://user-images.githubusercontent.com/75383758/127260105-d0bc6928-7d00-4964-8f0a-32d03d77caf3.png)
+
+26. El voltaje inicial en el capacitor de la figura 11-53 es de 55 V. El interruptor se cierra en t = 0 s y se abre 1 s despues. Grafique vC. ¿Cual es el voltaje del capacitor en t = 3.25 s?
+
+![image](https://user-images.githubusercontent.com/75383758/127260145-58c43608-b567-44c8-820d-41d33c14ad7e.png)
+
+Sabemos que V =55V y t = 0
+
+![image](https://user-images.githubusercontent.com/75383758/127260156-9daf5702-a642-4b2e-b6e9-5e35b58d93ac.png)
+
+Cuando t = 1s
+
+![image](https://user-images.githubusercontent.com/75383758/127260167-63de1b40-fdf6-43da-b739-85e7bfb0c351.png)
+
+El voltaje que pasa por el capacitor es de 3.25 por lo tanto 
+
+Vc(3.25)=7.44V
+
+27. Para la figura 11-54, sea E = 200 V, R2 = 1 kΩ y C = 0.5 μF. Despues de que el capacitor esta totalmente cargado en la posicion 1, el interruptor es movido a la posicion 2.
+
+    a. ¿Que voltaje tiene el capacitor inmediatamente despues de que el interruptor es movido a la posicion 2? ¿Cual es la corriente?
+
+    b. ¿Cual es la constante de tiempo de descarga?
+
+    c. Determine las ecuaciones de descarga para vC e iC.
+
+a) ![image](https://user-images.githubusercontent.com/75383758/127260284-c3d03d71-4a89-48ff-8cbb-281901bed36c.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127260290-ec910651-635f-4677-9d3b-bedf0f754af2.png)
+
+Vc=V 
+
+Vc=V =200V
+
+∴V=200V 
+
+Cuando el interrumptor esta en la posición 2 tenemos 
+
+![image](https://user-images.githubusercontent.com/75383758/127260316-72e32bb3-f924-4d88-9afc-41e04442afe0.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127260328-17a7c08e-17c8-4bd8-b8e9-27e5565b7326.png)
+
+b) ![image](https://user-images.githubusercontent.com/75383758/127260352-bb2845ca-a6ea-4886-918d-02dae041c170.png)
+
+c) ![image](https://user-images.githubusercontent.com/75383758/127260361-7561bb0b-129c-4be7-b811-01680dac2000.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127260367-d4b5db4d-3a6c-491b-be77-c36a7785ab94.png)
+
+28. Para la figura 11-54, C esta totalmente cargado antes de que el interruptor sea movido para la descarga. Justo despues que es movido, la corriente es i_C = 4 mA y C tarda 20 ms en descargarse. Si E = 80 V, ¿que valores tienen R2 y C?
+
+![image](https://user-images.githubusercontent.com/75383758/127260395-05f35bb1-28b5-4044-a7e2-579a4688973c.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127260404-7e55d2f8-3456-417f-98d0-15ff47bae8a7.png)
+
+Vc=V 
+
+Vc=V =80V
+
+∴V=80V 
+
+Cuando el interruptor esta en posición 2 
+
+![image](https://user-images.githubusercontent.com/75383758/127260424-16cc47f1-4d4a-479f-ab82-1645affba916.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127260451-33579486-50d8-4ec8-a67d-ca155f4bb9ef.png)
+
+Cuando ic = -4 mA
+
+![image](https://user-images.githubusercontent.com/75383758/127260467-a72d8f54-911a-482c-9cc5-c0e0a0a3cf4a.png)
+
+Cuando t =5t
+
+![image](https://user-images.githubusercontent.com/75383758/127260473-63b10399-d0a6-4992-92b0-e08b4ebe528a.png)
+
+**11-5 Circuitos mas complejos **
+
+29.  Los capacitores de la figura 11-55 estan descargados. El interruptor se cierra en t _ 0. Determine la ecuacion para vC. Calcule vC a una constante de tiempo usando la ecuacion y la curva de constante de tiempo universal. Compare sus respuestas.
+
+![image](https://user-images.githubusercontent.com/75383758/127260505-b19e423b-1285-41d5-b22c-f3a661523eac.png)
+
+Modificamos el circuito 
+
+![image](https://user-images.githubusercontent.com/75383758/127260522-8875cdf8-1356-4469-85fb-5f3689f854e0.png)
+
+Minimizamos el circuito y nos queda 
+
+![image](https://user-images.githubusercontent.com/75383758/127260537-dfacd9d0-e0d7-4415-a05e-a47ed1a89127.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127260547-12c9391c-fafa-48a9-a31e-dd66dc01880c.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127260550-aba0a777-0d53-4985-a1fa-777a40659cc4.png)
+
+b) La curva universal de voltaje es:
+
+![image](https://user-images.githubusercontent.com/75383758/127260570-79cd0b06-a38b-4487-b106-ac9a8984e69e.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127260574-d7d41bdf-291f-40d6-b3d9-43b7718ab333.png)
+
+30. Para la figura 11-56, el interruptor se cierra en t =0. Si V0 =0 V.
+
+![image](https://user-images.githubusercontent.com/75383758/127260619-3b6df5dd-ec64-4c56-b1a9-defa16ca9263.png)
+
+Cambiamos el circuito y tenemos 
+
+![image](https://user-images.githubusercontent.com/75383758/127260633-31bef57a-6517-46c0-bda5-942c5b84a9fb.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127260637-02963f5c-261f-4b33-9b4e-1eb89651b076.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127260642-714ebf45-129e-43af-8c41-0d7ae20a2e16.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127260649-0664f743-aaa3-41d5-a0b4-3af6f51a696d.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127260655-c719a93d-39ab-4d2a-aa34-77d439cfcd2c.png)
+
+a.	Determine las ecuaciones para vC e iC.	
+
+Para el capacitor 
+
+![image](https://user-images.githubusercontent.com/75383758/127260681-10581376-5e0e-4ad7-8bcd-a07555dcc9a0.png)
+
+Segunda ecuación 
+
+![image](https://user-images.githubusercontent.com/75383758/127260696-74e201e3-990c-49b9-9480-451034d2a6cc.png)
+
+b.	Calcule el voltaje del capacitor en t _ 0_ 2, 4, 6, 8, 10 y 12 ms.
+
+Cuando t = 0^+
+
+![image](https://user-images.githubusercontent.com/75383758/127260721-0dc380b2-2f1f-4a28-8ddd-c78de4fe845a.png)
+
+Cuando t = 2 ms
+
+![image](https://user-images.githubusercontent.com/75383758/127260739-486395af-084b-4aa1-a235-7096428c5c0b.png)
+
+Cuando t = 4 ms 
+
+![image](https://user-images.githubusercontent.com/75383758/127260755-9b8ba9b1-0071-464e-a069-427b36a0c7d8.png)
+
+Cuando t = 6ms 
+
+![image](https://user-images.githubusercontent.com/75383758/127260768-9ea78a23-8188-48dd-8bec-f70001827302.png)
+
+Cuando t = 8ms 
+
+![image](https://user-images.githubusercontent.com/75383758/127260786-6c844191-c2cb-48f5-b77a-2dc60130e463.png)
+
+Cuando t = 10 ms 
+
+![image](https://user-images.githubusercontent.com/75383758/127260796-32c8899c-c7fc-4522-8cf1-ea43e5815d2a.png)
+
+Cuando t = 12 ms 
+
+![image](https://user-images.githubusercontent.com/75383758/127260811-0aa2f193-5519-40aa-93b3-accfdbab6abf.png)
+
+c.	Repita el inciso (b) para la corriente del capacitor.
+
+Usamos la segunda ecuación 
+
+Cuando t = 0^+
+
+![image](https://user-images.githubusercontent.com/75383758/127260842-b772af3d-d934-4a45-a068-aa2325d2179b.png)
+
+Cuando t = 2ms 
+
+![image](https://user-images.githubusercontent.com/75383758/127260851-3bfed61e-fac8-4580-8ff5-3f7aba3ba400.png)
+
+Cuando t = 4ms 
+
+![image](https://user-images.githubusercontent.com/75383758/127260863-a8066039-979a-4f41-950e-c7591dfcb9da.png)
+
+Cuando t = 6ms 
+
+![image](https://user-images.githubusercontent.com/75383758/127260868-cdbb7a94-2f1d-488c-a9bc-71f2def2ca90.png)
+
+Cuando t = 8ms 
+
+![image](https://user-images.githubusercontent.com/75383758/127260889-a16d3f22-450b-46a6-9f51-ba116c4e1291.png)
+
+Cuando t = 10ms 
+
+![image](https://user-images.githubusercontent.com/75383758/127260928-003c455f-35a7-4b83-8b2b-fd4f1d9c0d20.png)
+
+Cuando t = 12ms
+
+![image](https://user-images.githubusercontent.com/75383758/127260949-a600aad5-51d4-4c33-b696-4925578dddcf.png)
+
+d.	¿Por que 225 V/30 tambien producen i(0+)?
+
+Reducimos el circuito 
+
+![image](https://user-images.githubusercontent.com/75383758/127261003-089c09d4-9d10-49cb-8ca6-89f3883cc5c7.png)
+
+![image](https://user-images.githubusercontent.com/75383758/127261007-77a3c94a-1838-47da-b273-d2d5989f6ff4.png)
+
+31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.
 
 ### CAPITULO 12
 
