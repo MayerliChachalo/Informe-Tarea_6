@@ -681,7 +681,11 @@ de atraccion en el embolo en newtons y en libras.
 
 ## 5. CONCLUSIONES
 
+- Existen varias formulas para poder determinar los voltajes y corrientes en los circuitos RC sean estos capacitivos, tales formulas de la misma manera nos ayudan a comprender el funcionamiento de nuestros circuitos y sobretodo de los capacitores ubicados en las mismos.
 
+- Se visualizó también que cuando el interruptor del circuito está abierto un capacitor está descargado, además de que se concluyó que el voltaje del capacitor no puede cambiar instantáneamente ya que para modificar el voltaje del capacitor los miles de millones de electrones deben moverse de una placa a otra y esto toma tiempo.
+
+- Se entendió el significado de tiempo en un análisis transitorio, esto quiere decir el tiempo en este análisis se mide desde el mismo instante en el que se cierra el interruptor, en palabras más sencillas cuando t = 0s se define como el instante en que el interruptor se mueve a la posición de carga.
 
 ## 6. BIBLIOGRAFÍA
 
